@@ -1,4 +1,5 @@
 # UKSK2022
 
-UK South Korea Prosody Research Network 
-Praat Script Basics
+Methodological Advances in Prosody Research
+
+Praat Scripting Basic
